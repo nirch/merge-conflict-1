@@ -1,6 +1,7 @@
 function bla() {
+  console.log('bla0');
   console.log('bla1');
-  console.log('bla222222blabla');
+  console.log('bla222222');
   console.log('bla333333');
 }
 
